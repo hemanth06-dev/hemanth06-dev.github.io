@@ -6,7 +6,7 @@ export const skillsData = [
     iconBg: 'bg-blue-100',
     title: 'Frontend Development',
     description: 'Expert in modern frontend frameworks, creating responsive and interactive UIs',
-    technologies: ['React', 'Angular', 'TypeScript', 'Tailwind CSS']
+    technologies: ['React', 'Angular', 'TypeScript','JavaScript', 'Tailwind CSS']
   },
   {
     icon: <Server className="text-green-600 w-6 h-6"  />,
